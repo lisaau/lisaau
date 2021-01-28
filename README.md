@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lisaau/lisaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on various frontend frameworks
+- 🌱 I’m currently learning TypeScript
+- 💬 Ask me about how to make a career transition into software engineering
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://lisaau.netlify.app/
+[linkedin]: https://www.linkedin.com/in/lisa-au/
+
+### Technologies that I've work with:
+
+- JavaScript, TypeScript, React, Angular, Express, Node
+- SQL, PostgreSQL
+- HTML, CSS, Bootstrap
